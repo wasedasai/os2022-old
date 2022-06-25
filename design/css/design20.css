@@ -374,7 +374,7 @@ p.signatureImage {
 }
 
 p.textAbout {
-	text-align: center;
+	text-align: left;
 	padding: 20px;
 	line-height: 2.5em;
 	letter-spacing: 0.05em;
