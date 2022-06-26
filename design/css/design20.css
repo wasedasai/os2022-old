@@ -13,11 +13,12 @@ a {
 	word-break: break-all;
 }
 
+/* Headerはindex.htmlのみ */
 header {
 	margin: 0;
 	padding: 0;
 	height: 100vh;
-	background-image: url('../images/background_hero.jpg');
+	background-image: url('../images/background_hero.png');
 	background-size: cover;
 	background-position: center;
 	display: flex;
@@ -36,6 +37,10 @@ header h1 img {
 	max-width: 80%;
 	margin: 0;
 	padding: 0;
+}
+
+#hero_img {
+	max-width: 100%;
 }
 
 .childHeader {
