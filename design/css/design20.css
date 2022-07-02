@@ -400,7 +400,7 @@ p.gaiyou {
 p.catchcopy {
 	text-align: center;
 	font-size: 1.5em;
-	color: #8c82af;
+	color: #eea48b;
 }
 
 .rs {
@@ -544,7 +544,7 @@ p a:hover {
 
 .pagetop a:hover {
     display: block;
-    background-color: #8c82af;
+    background-color: #eea48b;
     text-align: center;
     color: #fff;
     font-size: 12px;
