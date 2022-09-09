@@ -149,6 +149,22 @@ li {
 	}
 }
 
+@media screen and (max-width: 1023px) {
+	.js-clingify-placeholder {
+		display: none;
+	}
+
+	h3.sp-h3 {
+		height: 64px;
+	}
+}
+
+@media screen and (max-width: 1023px) {
+	.childHeader{
+		padding-top: 60px;
+	}
+}
+
 p {
   padding-bottom: 12px;
 }
